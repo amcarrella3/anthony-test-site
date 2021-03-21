@@ -1,4 +1,4 @@
-baseURL = "https://jlumbroso.github.io/hugo-github-example"
+baseURL = "https://amcarrella3.github.io/hugo-github-example"
 languageCode = "en-us"
 title = "Noteworthy"
 theme = "noteworthy"
@@ -16,7 +16,7 @@ disqusShortname = ""
   tag = "tags"
 
 [author]
-	name = "jlumbroso"
+	name = "amcarrella3"
 
 # Set to false to disallow raw HTML in markdown files
 [markup.goldmark.renderer]
