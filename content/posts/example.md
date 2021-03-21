@@ -8,7 +8,6 @@ tags: [
     "privacy",
 ]
 type: "post"
-draft: false
 ---
 
 This is an example post.
